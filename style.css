@@ -48,7 +48,7 @@ h1{
 
 
 body{
-	background-image:url("/img/pub.jpg");
+	background-image:url("img/pub.jpg");
 	text-align: center;
 	margin-bottom:50px;
 	
